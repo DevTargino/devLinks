@@ -14,11 +14,10 @@
   <a href="#Projeto">Projeto</a> •
   <a href="#Layout">Layout</a> •
   <a href="#Licença">Licença</a> •
-  <a href="#related">Related</a> •
-  <a href="#license">License</a>
+  
 </p>
 
-![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
+![screenshot](inserir link de imagem)
 
 ## Tecnologias
 
