@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O DevLinks é um agregador de links para usar como cartão de visitas online.
 
-Acesse o projeto finalizado, online
+<a href="https://devtargino.github.io/devLinks/" target="_blank">Acesse o projeto finalizado, online</a></h4>
 
 <a href="https://app.rocketseat.com.br/discover" target="_blank">Assistir aulas</a></h4>
 
