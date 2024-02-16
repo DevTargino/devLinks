@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="#"><img src="assets\dark_light.gif" alt="foto do projeto devlinks" width="200"></a>
+  <a href="#"><img src="assets\dark_light.gif" alt="foto do projeto devlinks" width="400"></a>
   <br>
   devLinks
   <br>
