@@ -54,8 +54,7 @@ body * {
 
 #profile p {
   font-weight: 500;
-  line-height: 24px;
-  margin-top: 8px;
+  margin-top: 24px;
 }
 
 /*switch*/
@@ -140,6 +139,7 @@ ul li a:hover {
   justify-content: center;
   padding: 24px 0;
   font-size: 24px;
+  gap: 8px;
 }
 
 #social-links a {
@@ -170,7 +170,7 @@ footer {
   }
 
   .light {
-    --bg-ulr: url(assets/bg-desktop-light.jpg);
+    --bg-url: url(assets/bg-desktop-light.jpg);
   }
 }
 
