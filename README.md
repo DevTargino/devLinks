@@ -17,8 +17,6 @@
   
 </p>
 
-![screenshot](inserir link de imagem)
-
 ## Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
